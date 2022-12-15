@@ -1,0 +1,360 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:45:17] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:07] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:09] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:10] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:11] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:54] filterscripts = ""  (string)
+[00:48:54] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:59] filterscripts = ""  (string)
+[00:48:59] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:13] 
+[00:54:13] Server Plugins
+[00:54:13] --------------
+[00:54:13]  Loading plugin: streamer.so
+[00:54:13]   Failed.
+[00:54:13]  Loaded 0 plugins.
+
+[00:54:14] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:54:14] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:25] 
+[00:54:25] Server Plugins
+[00:54:25] --------------
+[00:54:25]  Loading plugin: streamer.so
+[00:54:25]   Failed.
+[00:54:25]  Loaded 0 plugins.
+
+[00:54:25] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:54:25] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:28] 
+[00:54:28] Server Plugins
+[00:54:28] --------------
+[00:54:28]  Loading plugin: streamer.so
+[00:54:28]   Failed.
+[00:54:28]  Loaded 0 plugins.
+
+[00:54:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:54:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:29] 
+[00:54:29] Server Plugins
+[00:54:29] --------------
+[00:54:29]  Loading plugin: streamer.so
+[00:54:29]   Failed.
+[00:54:29]  Loaded 0 plugins.
+
+[00:54:29] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:54:29] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:55:27] 
+[00:55:27] Server Plugins
+[00:55:27] --------------
+[00:55:27]  Loading plugin: streamer.so
+[00:55:27]   Failed.
+[00:55:27]  Loaded 0 plugins.
+
+[00:55:27] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:55:27] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:56:25] filterscripts = ""  (string)
+[00:56:25] 
+[00:56:25] Server Plugins
+[00:56:25] --------------
+[00:56:25]  Loading plugin: streamer.so
+[00:56:25]   Failed.
+[00:56:25]  Loaded 0 plugins.
+
+[00:56:25] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:56:25] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:57:01] filterscripts = ""  (string)
+[00:57:01] 
+[00:57:01] Server Plugins
+[00:57:01] --------------
+[00:57:01]  Loading plugin: streamer.so
+[00:57:01]   Failed.
+[00:57:01]  Loaded 0 plugins.
+
+[00:57:01] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:57:01] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:58:32] filterscripts = ""  (string)
+[00:58:32] plugins = ""  (string)
+[00:58:32] 
+[00:58:32] Server Plugins
+[00:58:32] --------------
+[00:58:32]  Loaded 0 plugins.
+
+[00:58:32] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:58:32] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:02:42] filterscripts = ""  (string)
+[01:02:42] plugins = ""  (string)
+[01:02:42] 
+[01:02:42] Server Plugins
+[01:02:42] --------------
+[01:02:42]  Loaded 0 plugins.
+
+[01:02:42] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:02:42] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:02:45] filterscripts = ""  (string)
+[01:02:45] plugins = ""  (string)
+[01:02:45] 
+[01:02:45] Server Plugins
+[01:02:45] --------------
+[01:02:45]  Loaded 0 plugins.
+
+[01:02:45] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:02:45] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:02:46] filterscripts = ""  (string)
+[01:02:46] plugins = ""  (string)
+[01:02:46] 
+[01:02:46] Server Plugins
+[01:02:46] --------------
+[01:02:46]  Loaded 0 plugins.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:16] filterscripts = ""  (string)
+[01:04:16] plugins = ""  (string)
+[01:04:16] 
+[01:04:16] Server Plugins
+[01:04:16] --------------
+[01:04:16]  Loaded 0 plugins.
+
+[01:04:16] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:04:16] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:26] filterscripts = ""  (string)
+[01:04:26] plugins = ""  (string)
+[01:04:26] 
+[01:04:26] Server Plugins
+[01:04:26] --------------
+[01:04:26]  Loaded 0 plugins.
+
+[01:04:26] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:04:26] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:27] filterscripts = ""  (string)
+[01:04:27] plugins = ""  (string)
+[01:04:27] 
+[01:04:27] Server Plugins
+[01:04:27] --------------
+[01:04:27]  Loaded 0 plugins.
+
+[01:04:27] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:04:27] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:36] filterscripts = ""  (string)
+[01:04:36] plugins = ""  (string)
+[01:04:36] 
+[01:04:36] Server Plugins
+[01:04:36] --------------
+[01:04:36]  Loaded 0 plugins.
+
+[01:04:36] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:04:36] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:07:12] filterscripts = ""  (string)
+[01:07:12] plugins = ""  (string)
+[01:07:12] 
+[01:07:12] Server Plugins
+[01:07:12] --------------
+[01:07:12]  Loaded 0 plugins.
+
+[01:07:12] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:07:12] It needs a gamemode0 line at the very least.
